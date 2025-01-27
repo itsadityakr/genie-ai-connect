@@ -4,7 +4,7 @@ This project is a simple Flask-based web application that integrates MongoDB for
 
 
 ## Preview
-<img src="https://raw.githubusercontent.com/itsadityakr/todo-list-app/refs/heads/main/assets/gif.gif" alt="" width="700">
+<img src="https://raw.githubusercontent.com/itsadityakr/genie-ai-connect/refs/heads/main/static/assets/gif.gif" alt="" width="700">
 
 ## Installation and Setup
 
