@@ -2,10 +2,10 @@ from flask import Flask, render_template, jsonify, request, redirect, url_for
 from flask_pymongo import PyMongo
 import openai
 
-openai.api_key = "API KEY"
+openai.api_key = ""
 
 app = Flask(__name__)
-app.config["MONGO_URI"] = "MONGO CLUSTER"
+app.config["MONGO_URI"] = ""
 mongo = PyMongo(app)
 
 @app.route("/")

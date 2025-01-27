@@ -2,6 +2,10 @@
 
 This project is a simple Flask-based web application that integrates MongoDB for storing chat data and OpenAI's GPT-3.5 for generating responses. Users can interact with the application by asking questions, and the application will either retrieve a stored response or generate a new one using OpenAI's API.
 
+
+## Preview
+<img src="https://raw.githubusercontent.com/itsadityakr/todo-list-app/refs/heads/main/assets/gif.gif" alt="" width="700">
+
 ## Installation and Setup
 
 ### Prerequisites

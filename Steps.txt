@@ -15,10 +15,12 @@ Update Environment Varialbes "Path"
 Install Python Libraries in terminal
 1- pip install flask
 2- pip install pymongo
-3- pip install open ai
+3- pip install openai
 4- pip install flask_pymongo
 5- pip install openai==0.28
 
 Run these codes in VSCode Console
 1- npm run tw
 2- python main.py
+
+pip install flask pymongo openai flask_pymongo openai==0.28
